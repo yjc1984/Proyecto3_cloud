@@ -87,6 +87,7 @@ DATABASES = {
     }
 }
 
+#CONFIGURACION MONGO
 #DATABASES = {
 #   'default': {
 #       'ENGINE': 'djongo',
